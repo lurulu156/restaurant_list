@@ -9,7 +9,7 @@ A simple web application for restaurant list
 type the title of the restaurants in search bar
 
 ### Languages
-Javascript
-Handlebars
-Express
+- Javascript
+- Handlebars
+- Express
 
