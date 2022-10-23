@@ -1,6 +1,6 @@
 # Restaurant List
 A simple web application for restaurant list
-
+![image](./public/snapshot_restaurant_list.JPG)
 ## Features
 - listing restaurants from json file
 - show the restaurant detailed info by clicking it
