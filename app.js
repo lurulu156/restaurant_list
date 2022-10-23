@@ -33,5 +33,5 @@ app.get('/search', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Express is listening on https://localhost:${port}`)
+  console.log(`Express is listening on localhost:${port}`)
 })
